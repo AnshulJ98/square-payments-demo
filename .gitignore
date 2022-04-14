@@ -1,6 +1,7 @@
 # do not commit sensitive information to git
 .env*
 !.env.example
+.env.sandbox
 
 # dependencies
 node_modules/
